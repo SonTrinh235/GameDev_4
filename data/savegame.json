@@ -1,0 +1,19 @@
+{
+  "aiMode":1,
+  "round":1,
+  "turnIndex":4,
+  "playerClasses":[3,5,1,2],
+  "enemyClasses":[0,1,2,4],
+  "playerChars":[
+    {"id":"p0","name":"Medic 1","classType":3,"isPlayer":1,"teamIndex":0,"row":4,"col":0,"hp":85,"maxHp":85,"ap":8,"maxAp":8,"speed":9,"armor":5,"magicRes":10,"physDmg":0,"magDmg":20,"alive":1},
+    {"id":"p1","name":"Archer 2","classType":5,"isPlayer":1,"teamIndex":1,"row":6,"col":0,"hp":85,"maxHp":85,"ap":0,"maxAp":8,"speed":10,"armor":5,"magicRes":4,"physDmg":26,"magDmg":0,"alive":1},
+    {"id":"p2","name":"Mage 3","classType":1,"isPlayer":1,"teamIndex":2,"row":5,"col":0,"hp":70,"maxHp":70,"ap":2,"maxAp":8,"speed":7,"armor":3,"magicRes":14,"physDmg":0,"magDmg":32,"alive":1},
+    {"id":"p3","name":"Assassin 4","classType":2,"isPlayer":1,"teamIndex":3,"row":3,"col":9,"hp":80,"maxHp":80,"ap":0,"maxAp":8,"speed":14,"armor":5,"magicRes":4,"physDmg":28,"magDmg":0,"alive":1}
+  ],
+  "enemyChars":[
+    {"id":"e0","name":"Enemy Warrior 1","classType":0,"isPlayer":0,"teamIndex":0,"row":10,"col":11,"hp":120,"maxHp":120,"ap":0,"maxAp":8,"speed":7,"armor":20,"magicRes":4,"physDmg":22,"magDmg":0,"alive":1},
+    {"id":"e1","name":"Enemy Mage 2","classType":1,"isPlayer":0,"teamIndex":1,"row":6,"col":13,"hp":46,"maxHp":70,"ap":0,"maxAp":8,"speed":7,"armor":3,"magicRes":14,"physDmg":0,"magDmg":32,"alive":1},
+    {"id":"e2","name":"Enemy Assassin 3","classType":2,"isPlayer":0,"teamIndex":2,"row":5,"col":1,"hp":0,"maxHp":80,"ap":0,"maxAp":8,"speed":14,"armor":5,"magicRes":4,"physDmg":28,"magDmg":0,"alive":0},
+    {"id":"e3","name":"Enemy Paladin 4","classType":4,"isPlayer":0,"teamIndex":3,"row":12,"col":13,"hp":112,"maxHp":150,"ap":0,"maxAp":8,"speed":5,"armor":20,"magicRes":14,"physDmg":16,"magDmg":14,"alive":1}
+  ]
+}

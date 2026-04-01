@@ -1,0 +1,1 @@
+g++ src/main.cpp src/core/Game.cpp src/core/Window.cpp src/entities/Player.cpp src/entities/Projectile.cpp src/entities/Platform.cpp src/systems/AmmoSystem.cpp src/systems/CollisionSystem.cpp src/systems/RenderSystem.cpp -I SDL/x86_64-w64-mingw32/include -L SDL/x86_64-w64-mingw32/lib -lSDL3 -o MagicArena.exe
